@@ -48,6 +48,6 @@ Weight is converted from pounds to kilograms on the server side.
 The client and server communicate using the ZeroMQ (ZMQ) library, which requires the client to send a request (REQ) and the server to reply (REP) in a synchronous request-reply pattern.
 Version
 Microservice Version: 1.0
-Last Updated: [Your Last Update Date]
+Last Updated: [11/20/2023]
 
 <img width="758" alt="Screenshot 2023-11-20 at 8 05 00 PM" src="https://github.com/myersj9/bmrrmrmicro/assets/114433777/6bd7235e-0bf5-403c-aff3-24b4efabb73e">
